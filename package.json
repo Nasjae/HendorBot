@@ -13,3 +13,6 @@
     "discord.js-commando": "^0.10.0"
   }
 }
+"scripts": {
+  "start": "node index.js"
+}
